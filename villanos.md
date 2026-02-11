@@ -2,5 +2,5 @@
 # Villanos
 
 * Dr.Doom
-* Red Skull
-* Dr. Herrera
+* Red Skullgit 
+*Capitan America
